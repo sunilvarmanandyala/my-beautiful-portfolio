@@ -38,7 +38,7 @@ export const Home = () => {
         {/* Image below text */}
         <div className="mt-10">
           <img
-            src={profileImg}
+            src={1profileImg}
             alt="Sunil Varma"
             className="w-48 h-48 object-cover rounded-full shadow-lg mx-auto"
           />
