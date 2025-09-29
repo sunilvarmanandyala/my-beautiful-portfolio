@@ -46,6 +46,13 @@ export const Projects = () => {
   demo="https://sunilvarmanandyala.github.io/broadband/"
 />
 
+<ProjectCard
+  title="Task Manager Application"
+  description="A full-stack Task Manager application built with React for the frontend and .NET for the backend. Provides task creation, updating, deletion, and completion tracking with a responsive UI."
+  techStack={["React", ".NET", "C#", "REST API", "SQL Server"]}
+  github="https://github.com/sunilvarmanandyala/TASKMANAGER"
+/>
+
 
             {/* LLM Chatbot */}
             <ProjectCard
